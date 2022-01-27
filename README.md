@@ -12,3 +12,7 @@
 http://localhost:8000/docs/  ```swagger documentation```
 
 
+http://localhost:8000/api_search/?search=  ```text or id```  
+
+
+
